@@ -1,0 +1,11 @@
+WEBSITE NỘI THẤT HỢP NHẤT – BẢN NÂNG CẤP
+
+Mở index.html để xem trang chủ. Các trang con: gioi-thieu.html và san-pham.html. Tất cả ảnh nội thất được nhúng trực tiếp trong HTML, không cần thư mục ảnh riêng.
+
+LƯU Ý TRƯỚC KHI NỘP/CÔNG BỐ:
+- Giá, thông số và đánh giá sản phẩm hiện là nội dung minh họa cho bài tập.
+- Hotline, email, địa chỉ cần cập nhật thông tin thật.
+- Form đặt hàng/tư vấn đang là bản demo, chưa gửi dữ liệu về email/CRM.
+- Khu vực video đang dẫn tới kết quả tìm kiếm YouTube; thay bằng video thật của thương hiệu nếu có.
+
+Để gửi website lên nhóm, cần tải toàn bộ file trong thư mục lên dịch vụ hosting hoặc nén ZIP để lưu trữ; gửi link công khai sau khi xuất bản.
